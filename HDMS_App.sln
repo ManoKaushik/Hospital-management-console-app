@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDMS_App", "HDMS_App.csproj", "{79AEADE5-2B74-49E1-857A-8BDAD7460416}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79AEADE5-2B74-49E1-857A-8BDAD7460416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AEADE5-2B74-49E1-857A-8BDAD7460416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AEADE5-2B74-49E1-857A-8BDAD7460416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AEADE5-2B74-49E1-857A-8BDAD7460416}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4092A9DE-0AB0-4871-A9D6-346695B01035}
+	EndGlobalSection
+EndGlobal
